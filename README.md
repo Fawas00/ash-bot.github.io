@@ -5,4 +5,4 @@ We may store message data temporarily for service functionality.
 We do not sell user data.
 
 For deletion requests:
-your@email.com
+fawazperumani32@email.com
